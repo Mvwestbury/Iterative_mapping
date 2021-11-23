@@ -4,8 +4,7 @@ Scripts used to test the role of parameters and software in iteratively mapping 
 The variables that need to be specified in each of the scripts are available at the tops of the respective scripts
 
 ## BWA default
-A standard script to run BWA aln using default parameters
-'sh Ancient_mapping_defaultBWA.sh 5 Crocuta_DSdam_40x_merged_renamed.fastq Crocuta_DS_40x DS Crocuta_Tanz_mito.fasta'
+A standard script to run BWA aln using default parameters, filtering with SAMtools, and consensus sequence build with ANGSD
 
 ## BWA ancient iterative mapping (aITE)
 
