@@ -25,4 +25,4 @@ All can be run relatively similarly and produce a final consensus called prefix_
 
 - MITObimming.sh will run mitobim with various mismatch values (0 1 3 5 10 15) - note you will need to specify the full paths for this to work
 
-As it is a little annoying to get to the correct folder and create a consensus fasta when doing multiple MITObim runs, I created Cons.sh to do this relatively easily.
+As it is a little annoying to get to the correct folder and retrieve the final consensus fasta when doing multiple MITObim runs, I created Cons.sh to do this relatively easily.
