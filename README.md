@@ -17,8 +17,6 @@ There are four different scripts based on the different parameters tested.
 
 - aITE_mapperv3.sh utilises the parameters -n 0.001 -o 2
 
-- aITE_mapper_recal.sh utilises the parameters -n 0.001 -o 2 but with the addition of recalibrating the quality scores at the ends of reads showing aDNA damage using mapdamage
-
 All can be run relatively similarly and produce a final consensus called prefix_final.fa.gz
 
 
